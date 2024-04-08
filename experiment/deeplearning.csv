@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is deep learning based on?,a: Artificial Intelligence | b: Artificial Neural Networks with representation learning | c: Supervised learning only | d: Unsupervised learning only,b
+What does the term 'deep' in deep learning refer to?,a: Shallow networks | b: Use of multiple layers in the network | c: Static and symbolic networks | d: Dynamic and analog networks,b
+Which of the following is not an example of deep-learning architecture?,a: Deep neural networks | b: Recurrent neural networks | c: Linear regression models | d: Convolutional neural networks,c
+What type of learning process does deep learning aim to automate?,a: Human learning process | b: Computer learning process | c: Both a and b | d: None of the above,c
+"In image processing, what do lower layers in deep learning networks typically identify?",a: Concepts relevant to humans | b: Edges | c: Digits or letters | d: Faces,b
